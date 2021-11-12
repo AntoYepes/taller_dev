@@ -1,7 +1,7 @@
 def sumar(a,b):
-
-    c = a + b
-    return c
+   
+   c = a + b
+   return c
 def yorguin():
    print('yorguin')
 
@@ -13,26 +13,26 @@ def juliana():
    print('Juliana')
 
 def Luisa():
-       print('Luisa')
+   print('Luisa')
 def Jesica():
-       print('Hola')
+   print('Hola')
 def veronica():
    print('verónica')
 def jfochoa():
-    print("John Ochoa")
+   print("John Ochoa")
 def Antonia():
       print('Antonia')
 def yeimmy():
    print("Yeimmy Morales")
 def Dahiana():
-       print('Hola chicos!!')
+   print('Hola chicos!!')
 def camila():
-       print("Camila")
-       
+   print("Camila")
+      
 
 def eliana():
-       print('eliana')
-       
+      print('eliana')
+      
 def vale():
    a='VALENTINA'
    for i in a:
